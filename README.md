@@ -62,6 +62,7 @@ Admin password: admin
 -User input handling
 
 -Navigation flow
+
 **📝 Usage Guide**
 *Basic Workflow:*
 #Launch the application#
