@@ -62,3 +62,20 @@ Admin password: admin
 -User input handling
 
 -Navigation flow
+**📝 Usage Guide**
+*Basic Workflow:*
+#Launch the application#
+
+#Select an action from the menu:#
+
+1 - View product catalog
+
+2 - Add product to cart
+
+3 - View shopping cart
+
+4 - Checkout and place order
+
+5 - Contact support
+
+6 - Admin mode
