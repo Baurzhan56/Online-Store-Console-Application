@@ -1,3 +1,5 @@
+*An educational project. This project demonstrates OOP principles through carefully designed classes*
+
 ***Online Store Console Application***
 A simple console-based online store application built with C#, implementing basic e-commerce functionality.
 
